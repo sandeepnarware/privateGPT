@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/imartinez/privateGPT/compare/v0.0.2...v0.0.3) (2023-10-23)
+
+
+### Bug Fixes
+
+* typo in README.md ([#1091](https://github.com/imartinez/privateGPT/issues/1091)) ([ba23443](https://github.com/imartinez/privateGPT/commit/ba23443a70d323cd4f9a242b33fd9dce1bacd2db))
+
 ## [0.0.2](https://github.com/imartinez/privateGPT/compare/v0.0.1...v0.0.2) (2023-10-20)
 
 
